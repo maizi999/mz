@@ -49,7 +49,7 @@
   </div>
   <script>
     function generateRandom() {
-      const randomNumber = Math.floor(Math.random() * 200) + 1;
+      const randomNumber = Math.floor(Math.random() * 100) + 1;
       document.getElementById('result').innerText = `抽中的数字是：${randomNumber}`;
     }
   </script>
