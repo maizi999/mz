@@ -8,7 +8,7 @@
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      background-image: url('https://example.com/background.jpg'); /* 替换为你的背景图片链接 */
+      background-image: url('https://source.unsplash.com/1600x900/?background'); /* 替换为你的背景图片链接 */
       background-size: cover;
       color: white;
       margin: 0;
